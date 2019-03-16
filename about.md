@@ -4,52 +4,45 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+I am Nimit Bhardwaj, a student of Computer Science and Engineering 4th Year. I have a great passion towards learning new technologies and doing the Competitive coding and Development. I love to think about the problems, love to think about the solutions and the ways to tackle them. This is the attribute which I give the most importance in my life. I do lot of brain activity in the day. I am not limited to do coding and all the technical stuff. But I also like to read books, I love to read the work on understanding of the mind and the fiction stuff. I also like to play computer games and watching anime alot.
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Pursuing Dual Degree, M.Tech + B.Tech at National Institute of Technology, Hamirpur
+* High School from D.A.V. Public School, Una (Himachal Pradesh)
 
 ## Roles
 
-Founder, ABC Organisation
+* Vice President of Departmental Club CSEC
+* The Co-ordinating member of Technical Fest Club of CSE Department, Team .eXe.
+* The Co-ordinator of Monthly Coding Contests, Heuristics held in the college.
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
+* **Programming Languages** - `C` / `C++` / `Java` / `Python` / `HTML/CSS`
+* **Android Development** - `Android Support API` / `Java`
+* **Machine Learning and Statistical Computing** - `TensorFlow` / `Sklearn` / `Pandas` / `Matplotlib`
+* **Backend** - `Django` 
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Expert in Codeforces**](https://codeforces.com/profile/beast_pirate) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   The expert rated player of Coderforces, a competitve programming platform.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**82nd Rank in ACM-ICPC Gwallior Regionals out of 250 Teams**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   Got 82nd Rank in the worlds most competitive Coding competitve in ACM-ICPC Gwallior Regionals
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Participated in Hack-On-Hills 2019 and got in top 10 out of 55 teams**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+   Hack-On-Hills, an all India hackathon, achieved a rank of 10 out of 55 teams by the project on making Sound position detector for Military Theme.
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[nimitbhardwaj@gmail.co](mailto:nimitbhardwaj@gmail.com)
