@@ -4,12 +4,12 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://nimitbhardwaj.github.io/",
     title: "Nimit Bhardwaj",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    description: "Personal site and blog of Nimit Bhardwaj.",
     author: "Nimit Bhardwaj",
     profile: "https://github.com/nimitbhardwaj",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Asia/Kolkata",
     dir: "ltr",
   },
   posts: {
@@ -23,16 +23,13 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/nimitbhardwaj/nimitbhardwaj.github.io/edit/main/",
     },
     search: "pagefind",
     toc: true,
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github", url: "https://github.com/nimitbhardwaj" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
