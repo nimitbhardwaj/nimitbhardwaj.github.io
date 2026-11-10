@@ -30,6 +30,9 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github", url: "https://github.com/nimitbhardwaj" },
+    { name: "x", url: "https://x.com/nimit_bhardwaj" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/nimit-bhardwaj-b137a3116/" },
+    { name: "mail", url: "mailto:nimitbhardwaj@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },

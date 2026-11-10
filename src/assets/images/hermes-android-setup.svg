@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Hermes Agent on a VPS controls a rooted Android phone over Tailscale. adb goes from the VPS to the phone on port 5555. Phone traffic goes through ipt2socks to a SOCKS5 proxy on the VPS, then through Cloudflare WARP to the internet.">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#ff6b01"/>
+    </marker>
+  </defs>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#e6e9f2">
+    <rect width="900" height="380" rx="16" fill="#1b2030"/>
+
+    <!-- Tailscale band -->
+    <rect x="300" y="95" width="300" height="175" rx="10" fill="none" stroke="#5b6798" stroke-dasharray="6 6"/>
+    <text x="450" y="244" font-size="13" text-anchor="middle" fill="#9aa3c7">Tailscale (WireGuard)</text>
+    <text x="450" y="261" font-size="13" text-anchor="middle" fill="#9aa3c7">no public ports</text>
+
+    <!-- VPS -->
+    <rect x="30" y="50" width="270" height="230" rx="12" fill="#252c40" stroke="#3a4366"/>
+    <text x="165" y="82" font-size="18" font-weight="700" text-anchor="middle">VPS</text>
+    <g font-size="14" text-anchor="middle">
+      <rect x="50" y="115" width="230" height="28" rx="6" fill="#2f3752"/><text x="165" y="134">Hermes Agent + skill</text>
+      <rect x="50" y="150" width="230" height="28" rx="6" fill="#2f3752"/><text x="165" y="169">adb client</text>
+      <rect x="50" y="185" width="230" height="28" rx="6" fill="#2f3752"/><text x="165" y="204">SOCKS5 proxy</text>
+      <rect x="50" y="220" width="230" height="28" rx="6" fill="#2f3752"/><text x="165" y="239">warp-cli (proxy mode)</text>
+    </g>
+
+    <!-- Phone -->
+    <rect x="600" y="50" width="270" height="230" rx="12" fill="#252c40" stroke="#3a4366"/>
+    <text x="735" y="82" font-size="18" font-weight="700" text-anchor="middle">Old rooted phone</text>
+    <g font-size="14" text-anchor="middle">
+      <rect x="620" y="115" width="230" height="28" rx="6" fill="#2f3752"/><text x="735" y="134">Tailscale</text>
+      <rect x="620" y="150" width="230" height="28" rx="6" fill="#2f3752"/><text x="735" y="169">adbd on :5555</text>
+      <rect x="620" y="185" width="230" height="28" rx="6" fill="#2f3752"/><text x="735" y="204">iptables + ipt2socks</text>
+      <rect x="620" y="220" width="230" height="28" rx="6" fill="#2f3752"/><text x="735" y="239">KernelSU (root)</text>
+    </g>
+
+    <!-- arrows -->
+    <line x1="282" y1="164" x2="618" y2="164" stroke="#ff6b01" stroke-width="2.5" marker-end="url(#a)"/>
+    <text x="450" y="152" font-size="13" text-anchor="middle">adb shell + su</text>
+    <line x1="618" y1="199" x2="282" y2="199" stroke="#ff6b01" stroke-width="2.5" marker-end="url(#a)"/>
+    <text x="450" y="220" font-size="13" text-anchor="middle">phone traffic</text>
+
+    <!-- WARP out -->
+    <line x1="165" y1="280" x2="165" y2="330" stroke="#ff6b01" stroke-width="2.5" marker-end="url(#a)"/>
+    <text x="185" y="312" font-size="14">Cloudflare WARP → internet</text>
+  </g>
+</svg>
